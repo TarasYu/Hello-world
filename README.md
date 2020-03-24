@@ -1,2 +1,3 @@
 # Hello-world
 My very first repository
+Well, what can I say? I'm here and hope I'll be here for a long time...
